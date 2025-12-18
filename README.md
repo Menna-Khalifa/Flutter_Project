@@ -1,6 +1,6 @@
-# flutter_application_2
+# Flutter_Project
 
-A new Flutter project.
+BMI Project built with Flutter
 
 ## Getting Started
 
